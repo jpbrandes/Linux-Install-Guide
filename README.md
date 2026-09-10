@@ -1,4 +1,4 @@
-# Linux-Mint-Install
+# Linux-Install-Guide
 Um guia de como instalar qualquer sistema operacional Linux.
 
 Link do site do Linux Mint - https://linuxmint.com/
